@@ -7,6 +7,8 @@ PyExam is a simple testing framework for running tests after executing commands 
 
 For number based results it also provides aggregation tools and formatting.
 
+An example command would be: python tester.py debug_test.txt
+
 Current Test Cases:
 --------
 * Speed - Test execution of command line utilites
