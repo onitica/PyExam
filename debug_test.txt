@@ -1,0 +1,13 @@
+iterations: 5
+runtype: debug
+output: command; value; mean; std; min; max
+test_params: {f};{f2}
+values:
+v1;v2
+a;b
+c;d
+param1;param2
+tests:
+junkcommand {f} {f2}
+oneparamcommand {f}
+anothercommand {f} {f2}
